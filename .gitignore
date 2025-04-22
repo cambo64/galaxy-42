@@ -1,2 +1,5 @@
 .idea
 .python-version
+poetry.lock
+.coverage
+__pycache__/
